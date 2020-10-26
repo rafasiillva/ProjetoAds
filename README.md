@@ -1,2 +1,2 @@
 # ProjetoAds
-Esse código é para gerar uma mídia aritmética.
+Esse código é para gerar uma média aritmetica.
